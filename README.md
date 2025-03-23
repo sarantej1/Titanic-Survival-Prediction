@@ -12,12 +12,13 @@ This project predicts whether a passenger survived the Titanic disaster using ma
    git clone https://github.com/yourusername/Titanic-Survival-Prediction.git
    cd Titanic-Survival-Prediction
 
-2.   pip install pandas numpy scikit-learn seaborn matplotlib
+2. Install required dependencies:
+   pip install pandas numpy scikit-learn seaborn matplotlib
 
-3.  python titanic_survival.py
+3. Run the Python script:
+   python titanic_survival.py
 
-4.  Technologies Used
-Python
+4. Technologies Used Python:
 
 Pandas & NumPy (Data Processing)
 
@@ -25,7 +26,7 @@ Scikit-Learn (Machine Learning)
 
 Seaborn & Matplotlib (Visualization)
 
-5. Future Improvements
+5. Future Improvements:
 Use multiple ML models for comparison.
 
 Implement feature engineering for better predictions.
